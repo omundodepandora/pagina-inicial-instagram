@@ -1,2 +1,2 @@
 # pagina-inicial-instagram
-Projeto da Digital Innovation da página inicial do instagram
+Meu repositório da minha participação do projeto da recriação da pagina inicial de acesso ao Instagram da Digital Innovation.
